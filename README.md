@@ -1,8 +1,3 @@
-Voici ton fichier README.md prêt à l’emploi, clair et sans blabla inutile :
-
-⸻
-
-
 # Environnement C avec Docker + SSH
 
 ## 🔧 Installation sous WSL (Windows Subsystem for Linux)
@@ -11,25 +6,30 @@ Voici ton fichier README.md prêt à l’emploi, clair et sans blabla inutile :
 
 ```bash
 git clone https://github.com/Tekina-Ecole-IT-Bxl/01GCC-2025.git
-cd 01GCC-2025
 
-	2.	Donner les droits d’exécution au script
+
+cd 01GCC-2025
+```
+
+2.	Donner les droits d’exécution au script
 
 ```bash
 chmod +x run.sh
 ```
 
-	3.	Lancer le conteneur
+3.	Lancer le conteneur
+
 ```bash
 
 ./run.sh
 ```
 
-	4.	Se connecter en SSH
+4.	Se connecter en SSH
 
 ```bash
 ssh dev@localhost -p 2224
 ```
+
 #### => Mot de passe : dev
 
 
