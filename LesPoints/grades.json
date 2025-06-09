@@ -1,0 +1,894 @@
+[
+  {
+    "name": "Jonathan",
+    "email": "imambojonathan@gmail.com",
+    "github-id": "JImambo",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 10,
+      "snake": {
+        "code_fonctionnel": 10,
+        "code_structure_git": 8,
+        "note_finale_sur_10": 8.8
+      },
+      "final_test": {
+        "fonctionnel": 10,
+        "qualite_code": 10,
+        "graphismes_sons": 10,
+        "originalite": 10,
+        "readme": 0,
+        "bonus": 9,
+        "note_finale_sur_10": 8.8
+      }
+    }
+  },
+  {
+    "name": "Ndobo Ntue Klorane Brenda",
+    "email": "kloranebrenda5@gmail.com",
+    "github-id": "kloranebrenda",
+    "commitment": {
+      "basics": 10,
+      "advance": 0,
+      "qcm": 5,
+      "snake": {
+        "code_fonctionnel": 10,
+        "code_structure_git": 10,
+        "note_finale_sur_10": 8.0
+      },
+      "final_test": {
+        "fonctionnel": 10,
+        "qualite_code": 7,
+        "graphismes_sons": 8,
+        "originalite": 8,
+        "readme": 0,
+        "bonus": 7,
+        "note_finale_sur_10": 8.0
+      }
+    }
+  },
+  {
+    "name": "Iberrakene Lamis",
+    "email": "iberlamis79@gmail.com",
+    "github-id": "lamis-iberrakene",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 9.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 7.5,
+        "qualite_graphique_et_sonore": 7.5,
+        "originalite_et_creativite": 9,
+        "readme_et_explication": 7,
+        "bonus": 9,
+        "note_finale_sur_10": 9
+      }
+    }
+  },
+  {
+    "name": "Nchochengam Ngoumbe Saïda Mounira",
+    "email": "saidangoumbe@gmail.com",
+    "github-id": "SAIDA688",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 9,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 9.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 8,
+        "qualite_graphique_et_sonore": 8,
+        "originalite_et_creativite": 8.5,
+        "readme_et_explication": 6,
+        "bonus": 9,
+        "note_finale_sur_10": 9
+      }
+    }
+  },
+  {
+    "name": "Cedric Teujou",
+    "email": "cedricteujou3@gmail.com",
+    "github-id": "Merci",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 0,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 0,
+        "note_finale_sur_10": 4
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 20,
+        "qualite_code_structure_clarte": 3,
+        "qualite_graphique_et_sonore": 6,
+        "originalite_et_creativite": 2,
+        "readme_et_explication": 0,
+        "bonus": 2,
+        "note_finale_sur_10": 5.3
+      }
+    }
+  },
+  {
+    "name": "Lontsi-wilson",
+    "email": "lontsiwilson40@gmail.com",
+    "github-id": "wilson-lontsi",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 1,
+        "note_finale_sur_10": 4.4
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 0,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 0,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 1.2
+      }
+    }
+  },
+  {
+    "name": "Faradja Safari Divine",
+    "email": "divinesafari23@gmail.com",
+    "github-id": "divine462",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 12,
+        "note_finale_sur_10": 8.8
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 20,
+        "qualite_code_structure_clarte": 12,
+        "qualite_graphique_et_sonore": 6,
+        "originalite_et_creativite": 8,
+        "readme_et_explication": 5,
+        "bonus": 2,
+        "note_finale_sur_10": 5.3
+      }
+    }
+  },
+  {
+    "name": "Jouann Durel Djiokou",
+    "email": "jouanndureldjiokou@gmail.com",
+    "github-id": "DurelDjiokou",
+    "commitment": {
+      "basics": 8,
+      "advance": 0,
+      "qcm": 7,
+      "snake": {
+        "fonctionnalite_de_base": 5,
+        "affichage_graphique": 2,
+        "structure_recommandee": 1,
+        "bonnes_pratiques": 1.5,
+        "respect_model_structure": 0.5,
+        "note_finale_sur_10": 10
+      },
+      "final_test": {
+        "fonctionnement_stable": 20,
+        "qualite_code": 12,
+        "graphisme_et_son": 13,
+        "originalite": 17,
+        "presentation_readme": 3,
+        "bonus_techniques": 14,
+        "note_finale_sur_10": 7.9
+      }
+    }
+  },
+  {
+    "name": "Naïshka Darlene LENDEME MOUMOSSI",
+    "email": "lendemelendeme@gmail.com",
+    "github-id": "Darlenelm",
+    "commitment": {
+      "basics": null,
+      "advance": null,
+      "qcm": null,
+      "snake": {
+        "fonctionnalite_de_base": 5,
+        "affichage_graphique": 2,
+        "structure_recommandee": 0.5,
+        "bonnes_pratiques": 1,
+        "respect_model_structure": 0,
+        "total": 5.5
+      },
+      "final_test": null
+    }
+  },
+  {
+    "name": "NGOUO DJOU IVAN LANDRY",
+    "email": "djouivan03@gmail.com",
+    "github-id": "ivandjou",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 14,
+        "note_finale_sur_10": 9.6
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 20,
+        "qualite_code_structure_clarte": 14,
+        "qualite_graphique_et_sonore": 10,
+        "originalite_et_creativite": 16,
+        "readme_et_explication": 5,
+        "bonus": 10,
+        "note_finale_sur_10": 7.5
+      }
+    }
+  },
+  {
+    "name": "Meko Ngounou Ignes Pierrette",
+    "email": "pierrettemeko@gmail.com",
+    "github-id": "Ines105",
+    "commitment": {
+      "basics": 7,
+      "advance": 5,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 0,
+        "code_propre_structuré_git": 12,
+        "note_finale_sur_10": 4.8
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 0,
+        "qualite_code_structure_clarte": 10,
+        "qualite_graphique_et_sonore": 8,
+        "originalite_et_creativite": 10,
+        "readme_et_explication": 4,
+        "bonus": 0,
+        "note_finale_sur_10": 3.2
+      }
+    }
+  },
+  {
+    "name": "akhrouf",
+    "email": "akramakhrouf222@gmail.com",
+    "github-id": "akramakram05",
+    "commitment": {
+      "basics": 10,
+      "advance": null,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 0,
+        "code_propre_structuré_git": 14,
+        "note_finale_sur_10": 4.6
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 0,
+        "qualite_code_structure_clarte": 10,
+        "qualite_graphique_et_sonore": 8,
+        "originalite_et_creativite": 10,
+        "readme_et_explication": 4,
+        "bonus": 0,
+        "note_finale_sur_10": 3.2
+      }
+    }
+  },
+  {
+    "name": "TAGNE TOGHO FRANCK",
+    "email": "francktogho1@gmail.com",
+    "github-id": "franck-it-tech",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 0,
+        "code_propre_structuré_git": 5,
+        "note_finale_sur_10": 2.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 5,
+        "qualite_code_structure_clarte": 5,
+        "qualite_graphique_et_sonore": 3,
+        "originalite_et_creativite": 0,
+        "readme_et_explication": 1,
+        "bonus": 0,
+        "note_finale_sur_10": 1.8
+      }
+    }
+  },
+  {
+    "name": "Manga bihina jean christian",
+    "email": "mangabihinajeanchristian@gmail.com",
+    "github-id": "ghosttv2",
+    "commitment": {
+      "basics": 10,
+      "advance": 6,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 10,
+        "note_finale_sur_10": 7.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 11,
+        "qualite_code_structure_clarte": 8,
+        "qualite_graphique_et_sonore": 11,
+        "originalite_et_creativite": 5,
+        "readme_et_explication": 4,
+        "bonus": 3,
+        "note_finale_sur_10": 6
+      }
+    }
+  },
+  {
+    "name": "Soni Tchegwouo Richard Rodelin",
+    "email": "rodelinsoni612@gmail.com",
+    "github-id": "la-stra",
+    "commitment": {
+      "basics": 9,
+      "advance": 9,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 11,
+        "note_finale_sur_10": 6.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 14,
+        "qualite_code_structure_clarte": 8,
+        "qualite_graphique_et_sonore": 9,
+        "originalite_et_creativite": 3,
+        "readme_et_explication": 3,
+        "bonus": 2,
+        "note_finale_sur_10": 5.6
+      }
+    }
+  },
+  {
+    "name": "SIMO DJUIDJE Michelle Sereina",
+    "email": "sereina.michelle@gmail.com",
+    "github-id": "Michelle djuidje",
+    "commitment": {
+      "basics": 1,
+      "advance": 0,
+      "qcm": 0,
+      "snake": {
+        "code_fonctionnel_et_compilé": 0,
+        "code_propre_structuré_git": 0,
+        "note_finale_sur_10": 0
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 0,
+        "qualite_code_structure_clarte": 0,
+        "qualite_graphique_et_sonore": 0,
+        "originalite_et_creativite": 0,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 0
+      }
+    }
+  },
+  {
+    "name": "ESSOMBA AMOUGOU Alphonse",
+    "email": "chatgptdidi2023@gmail.com",
+    "github-id": "DIDIANGE2025",
+    "commitment": {
+      "basics": 9,
+      "advance": 7,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 8,
+        "code_propre_structuré_git": 5,
+        "note_finale_sur_10": 6
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 8,
+        "qualite_code_structure_clarte": 6,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 7,
+        "readme_et_explication": 0,
+        "bonus": 2,
+        "note_finale_sur_10": 5
+      }
+    }
+  },
+  {
+    "name": "Ngueng wangue Théodore",
+    "email": "wanguetheo@gmail.com",
+    "github-id": "Theo891",
+    "commitment": {
+      "basics": 10,
+      "advance": 0,
+      "qcm": 0,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 7
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 9,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 4,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 6
+      }
+    }
+  },
+  {
+    "name": "Sop defo gedeon",
+    "email": "sopidedo5@gmail.com",
+    "github-id": "SopiDEFO",
+    "commitment": {
+      "basics": 10,
+      "advance": 9,
+      "qcm": 8,
+      "snake": null,
+      "final_test": null
+    }
+  },
+  {
+    "name": "Nadouba Doumbouya",
+    "email": "nadoubadoumbouya2001@gmail.com",
+    "github-id": "Mlle-001",
+    "commitment": {
+      "basics": null,
+      "advance": null,
+      "qcm": null,
+      "snake": null,
+      "final_test": null
+    }
+  },
+  {
+    "name": "Mbouwe Tchamake Stan Cabrel",
+    "email": "mbouwestan@gmail.com",
+    "github-id": "Mbouwestan",
+    "commitment": {
+      "basics": 4,
+      "advance": 0,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 14,
+        "note_finale_sur_10": 9.6
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 20,
+        "qualite_code_structure_clarte": 14,
+        "qualite_graphique_et_sonore": 10,
+        "originalite_et_creativite": 16,
+        "readme_et_explication": 5,
+        "bonus": 10,
+        "note_finale_sur_10": 7.5
+      }
+    }
+  },
+  {
+    "name": "Bouchareb khedidja",
+    "email": "khadidja.bouchouareb@gmail.com",
+    "github-id": "Khedidja94",
+    "commitment": {
+      "basics": 9,
+      "advance": 10,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 6,
+        "note_finale_sur_10": 5.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 8,
+        "qualite_code_structure_clarte": 6,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 3,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 4.5
+      }
+    }
+  },
+  {
+    "name": "Takile Etoa Diane Sharone",
+    "email": "dianetakile@gmail.com",
+    "github-id": "Sharone",
+    "commitment": {
+      "basics": null,
+      "advance": null,
+      "qcm": null,
+      "snake": null,
+      "final_test": null
+    }
+  },
+  {
+    "name": "NAMALEU KENHOUNG JIRES LEONEL",
+    "email": "leokenhoung@gmail.com",
+    "github-id": "Jires-21",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 11,
+        "note_finale_sur_10": 8.0
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 18,
+        "qualite_code_structure_clarte": 11,
+        "qualite_graphique_et_sonore": 5,
+        "originalite_et_creativite": 10,
+        "readme_et_explication": 3,
+        "bonus": 2,
+        "note_finale_sur_10": 6.7
+      }
+    }
+  },
+  {
+    "name": "Fopa mabou asaph",
+    "email": "asaphxoxo@gmail.com",
+    "github-id": "asaphxoxo@gmail.com",
+    "commitment": {
+      "basics": null,
+      "advance": null,
+      "qcm": null,
+      "snake": null,
+      "final_test": null
+    }
+  },
+  {
+    "name": "Tachago Wabo Ange Cheryl Macaire",
+    "email": "tachagoange6@gmail.com",
+    "github-id": "Moliere1234",
+    "commitment": {
+      "basics": 10,
+      "advance": 9,
+      "qcm": 9,
+      "snake": {
+        "code_fonctionnel_et_compilé": 8,
+        "code_propre_structuré_git": 8,
+        "note_finale_sur_10": 6.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 14,
+        "qualite_code_structure_clarte": 10,
+        "qualite_graphique_et_sonore": 10,
+        "originalite_et_creativite": 3,
+        "readme_et_explication": 3,
+        "bonus": 2,
+        "note_finale_sur_10": 5.5
+      }
+    }
+  },
+  {
+    "name": "Farrel Batochin",
+    "email": "astridebatochin1@gmail.com",
+    "github-id": "farrel05",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 5,
+        "note_finale_sur_10": 6
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 8,
+        "qualite_code_structure_clarte": 6,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 7,
+        "readme_et_explication": 0,
+        "bonus": 2,
+        "note_finale_sur_10": 5
+      }
+    }
+  },
+  {
+    "name": "Meli Zangmene",
+    "email": "lubelmeli90@gmail.com",
+    "github-id": "Lubel203",
+    "commitment": {
+      "basics": 10,
+      "advance": 0,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 1,
+        "note_finale_sur_10": 4.4
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 0,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 0,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 1.2
+      }
+    }
+  },
+  {
+    "name": "Dibi Eliel",
+    "email": "dibi.malchus@gmail.com",
+    "github-id": "Malxhus",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 10,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 9.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 7.5,
+        "qualite_graphique_et_sonore": 7.5,
+        "originalite_et_creativite": 9,
+        "readme_et_explication": 7,
+        "bonus": 9,
+        "note_finale_sur_10": 9
+      }
+    }
+  },
+  {
+    "name": "SIDZE ELISABETH",
+    "email": "jinaf90@gmail.com",
+    "github-id": "Lisasid6",
+    "commitment": {
+      "basics": 10,
+      "advance": 4,
+      "qcm": 4,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 1,
+        "note_finale_sur_10": 4.4
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 1,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 3,
+        "readme_et_explication": 0,
+        "bonus": 1,
+        "note_finale_sur_10": 3.4
+      }
+    }
+  },
+  {
+    "name": "HYEUGOUE  URSULE  DANIELLA",
+    "email": "ursuledaniella@gmail.com",
+    "github-id": "Daniella611",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 7,
+      "snake": 0,
+      "final_test": 0
+    }
+  },
+  {
+    "name": "Papa Ibrahima Dia",
+    "email": "haliloulah2006@gmail.com",
+    "github-id": "p20062000",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": null,
+      "snake": null,
+      "final_test": null
+    }
+  },
+  {
+    "name": "Metangmo Fofack Andrea",
+    "email": "metangmofofack@gmail.com",
+    "github-id": "andrea886",
+    "commitment": {
+      "basics": 5,
+      "advance": 3,
+      "qcm": 7,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 7
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 9,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 4,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 6
+      }
+    }
+  },
+  {
+    "name": "Feunkeu Feiumba Chelsea Kerelle",
+    "email": "",
+    "github-id": "",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 6,
+        "note_finale_sur_10": 8
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 18,
+        "qualite_code_structure_clarte": 7,
+        "qualite_graphique_et_sonore": 7,
+        "originalite_et_creativite": 6,
+        "readme_et_explication": 0,
+        "bonus": 1,
+        "note_finale_sur_10": 7.4
+      }
+    }
+  },
+  {
+    "name": "Tampa Abogo Francky",
+    "email": "",
+    "github-id": "",
+    "commitment": {
+      "basics": 8,
+      "advance": 0,
+      "qcm": 8,
+      "snake": {
+        "fonctionnalite_de_base": 5,
+        "affichage_graphique": 2,
+        "structure_recommandee": 1,
+        "bonnes_pratiques": 1.5,
+        "respect_model_structure": 0.5,
+        "note_finale_sur_10": 10
+      },
+      "final_test": {
+        "fonctionnement_stable": 20,
+        "qualite_code": 12,
+        "graphisme_et_son": 13,
+        "originalite": 17,
+        "presentation_readme": 3,
+        "bonus_techniques": 14,
+        "note_finale_sur_10": 7.9
+      }
+    }
+  },
+  {
+    "name": "Adopo Paul-Eric Kevin KOUADIO",
+    "email": "",
+    "github-id": "",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 0,
+      "snake": {
+        "fonctionnalite_de_base": 5,
+        "affichage_graphique": 2,
+        "structure_recommandee": 1,
+        "bonnes_pratiques": 1.5,
+        "respect_model_structure": 0.5,
+        "note_finale_sur_10": 8.5
+      },
+      "final_test": {
+        "fonctionnement_stable": 20,
+        "qualite_code": 12,
+        "graphisme_et_son": 13,
+        "originalite": 17,
+        "presentation_readme": 3,
+        "bonus_techniques": 14,
+        "note_finale_sur_10": 7.9
+      }
+    }
+  },
+  {
+    "name": "Marius AMADONKENG",
+    "email": "",
+    "github-id": "marius237-gold",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 11,
+        "note_finale_sur_10": 8.0
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 18,
+        "qualite_code_structure_clarte": 11,
+        "qualite_graphique_et_sonore": 5,
+        "originalite_et_creativite": 10,
+        "readme_et_explication": 3,
+        "bonus": 2,
+        "note_finale_sur_10": 6.7
+      }
+    }
+  },
+  {
+    "name": "Joseph Branham SANAMA OMBANG.",
+    "email": "",
+    "github-id": "whitehats237",
+    "commitment": {
+      "basics": 10,
+      "advance": 0,
+      "qcm": 8,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 9,
+        "note_finale_sur_10": 9.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 10,
+        "qualite_code_structure_clarte": 8,
+        "qualite_graphique_et_sonore": 8,
+        "originalite_et_creativite": 8.5,
+        "readme_et_explication": 6,
+        "bonus": 9,
+        "note_finale_sur_10": 9
+      }
+    }
+  },
+  {
+    "name": "Franck TAGNE TOGHO",
+    "email": "",
+    "github-id": "franck-it-tech",
+    "commitment": {
+      "basics": 10,
+      "advance": 10,
+      "qcm": 10,
+      "snake": {
+        "code_fonctionnel_et_compilé": 9,
+        "code_propre_structuré_git": 5,
+        "note_finale_sur_10": 6.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 8,
+        "qualite_code_structure_clarte": 4,
+        "qualite_graphique_et_sonore": 4,
+        "originalite_et_creativite": 3,
+        "readme_et_explication": 2,
+        "bonus": 0,
+        "note_finale_sur_10": 4.5
+      }
+    }
+  },
+  {
+    "name": "Pierre Dovane KRITIKOS ONANA",
+    "email": "",
+    "github-id": "",
+    "commitment": {
+      "basics": 0,
+      "advance": 0,
+      "qcm": 0,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 2,
+        "note_finale_sur_10": 4
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 8,
+        "qualite_code_structure_clarte": 2,
+        "qualite_graphique_et_sonore": 1,
+        "originalite_et_creativite": 1,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 2.5
+      }
+    }
+  }
+]
