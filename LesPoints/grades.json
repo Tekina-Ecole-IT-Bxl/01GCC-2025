@@ -890,5 +890,29 @@
         "note_finale_sur_10": 2.5
       }
     }
+  },
+  {
+    "name": "Hamza Boudhar",
+    "email": "",
+    "github-id": "hmz97-dev",
+    "commitment": {
+      "basics": 10,
+      "advance": 5,
+      "qcm": 0,
+      "snake": {
+        "code_fonctionnel_et_compilé": 10,
+        "code_propre_structuré_git": 7,
+        "note_finale_sur_10": 8.5
+      },
+      "final_test": {
+        "jeu_fonctionnel_stable_compile": 9,
+        "qualite_code_structure_clarte": 9,
+        "qualite_graphique_et_sonore": 2,
+        "originalite_et_creativite": 1,
+        "readme_et_explication": 0,
+        "bonus": 0,
+        "note_finale_sur_10": 7
+      }
+    }
   }
 ]
